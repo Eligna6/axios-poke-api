@@ -1,8 +1,10 @@
 # apios-poke-api
 
-Simple Pokedex app made with React, using Axios for API querys.
+Simple Pokedex app made with React, using Axios for API querys.\
 There's also an api implementation file using .fetch(), just to see the subtle difference.
-`List of changes pending:`
+
+## `List of changes pending:`
+
 <ul>
   <li>Fix weird behaviour: Search button doesn't work first or sometimes, but try once again and it loads normally.</li>
   <li>Make the search more flexible (like `%LIKE%` SQL command) and onChange.</li>
